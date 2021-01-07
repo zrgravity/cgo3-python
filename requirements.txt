@@ -1,4 +1,4 @@
 future==0.18.2
-lxml==4.5.1
+lxml==4.6.2
 pymavlink==2.4.8
 pyserial==3.4
